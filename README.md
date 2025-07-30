@@ -1,6 +1,6 @@
 [![View Dashboard](https://img.shields.io/badge/View%20Dashboard-Click%20Here-blue)](https://lookerstudio.google.com/s/n3VO6bQRUxc)
 
-You can check the dataset here! [link dataset](https://docs.google.com/spreadsheets/d/1ZKO0ZbL2a4tY1morKm5tnfO3_a6AYvRHzHtO87ToAf4/edit?gid=1511066551#gid=1511066551)
+You can check the dataset here! [dataset](https://docs.google.com/spreadsheets/d/1ZKO0ZbL2a4tY1morKm5tnfO3_a6AYvRHzHtO87ToAf4/edit?gid=1511066551#gid=1511066551)
 
 This dashboard i made as a bootcamp mini project. So i was given a dataset to answer and visualize a set of questions:
 
