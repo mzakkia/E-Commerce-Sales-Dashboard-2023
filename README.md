@@ -15,7 +15,7 @@ This dashboard i made as a bootcamp mini project. So i was given a dataset to an
 
 After answering and visualizing the answers, here are the insights and my recommendations:
 
-1. The **Fashion category** is the top revenue driver (**$5.2M**), **allocate more marketing and inventory resources** here to keep the products sold high and reach bigger market size.
+1. The **Fashion category** is the top revenue driver (**$5.2M**), **allocate more marketing and inventory resources** here to maintain strong sales performance and reach bigger market size.
 2. Because The **Corporate segment** contributes significantly (**30.2%**), consider **B2B promotions** or **bulk purchase discounts**.
 3. The USA dominates the market, but there are opportunities in emerging markets such as **Mexico** and **Australia**, therefore we can **expand the promotion effort** in these high potential countries.
 4. Nearly the same number of customers and transactions suggests **a low repeat rate**. Consider making **loyalty programs** to **encourage repeat purchase order**.
