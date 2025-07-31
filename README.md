@@ -2,7 +2,7 @@
 
 You can check the dataset here! [dataset](https://docs.google.com/spreadsheets/d/1ZKO0ZbL2a4tY1morKm5tnfO3_a6AYvRHzHtO87ToAf4/edit?gid=1511066551#gid=1511066551)
 
-This dashboard i made as a bootcamp mini project. So i was given a dataset to answer and visualize a set of questions:
+This dashboard i made as a bootcamp mini project. So i was given a **clean dataset** to answer and visualize a set of questions:
 
 1. What was the total sales in 2023? 
 2. How many transactions occurred in 2023? 
